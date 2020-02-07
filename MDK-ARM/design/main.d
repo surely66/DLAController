@@ -1,0 +1,55 @@
+design\main.o: ../Src/main.cpp
+design\main.o: ../Inc/main.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+design\main.o: ../Inc/stm32f4xx_hal_conf.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+design\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+design\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f429xx.h
+design\main.o: ../Drivers/CMSIS/Include/core_cm4.h
+design\main.o: D:\Program Files\mdk\ARM\ARMCC\Bin\..\include\stdint.h
+design\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
+design\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+design\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+design\main.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+design\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+design\main.o: D:\Program Files\mdk\ARM\ARMCC\Bin\..\include\stddef.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_crc.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma2d.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sdram.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_fmc.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_ltdc.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_ltdc_ex.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+design\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+design\main.o: D:\Program Files\mdk\ARM\ARMCC\Bin\..\include\stdio.h
+design\main.o: D:\Program Files\mdk\ARM\ARMCC\Bin\..\include\string.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+design\main.o: ../Inc/FreeRTOSConfig.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h
+design\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

@@ -1,0 +1,2 @@
+design\blue_slider_horizontal_large_indicators_slider2_round_nob.o: ../touchgfx/generated/images/src/__designer/blue_slider_horizontal_large_indicators_slider2_round_nob.cpp
+design\blue_slider_horizontal_large_indicators_slider2_round_nob.o: ../middlewares/st/touchgfx/touchgfx/framework/include/touchgfx/hal/Config.hpp

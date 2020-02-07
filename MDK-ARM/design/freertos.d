@@ -1,0 +1,50 @@
+design\freertos.o: ../Src/freertos.c
+design\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+design\freertos.o: D:\Program Files\mdk\ARM\ARMCC\Bin\..\include\stddef.h
+design\freertos.o: D:\Program Files\mdk\ARM\ARMCC\Bin\..\include\stdint.h
+design\freertos.o: ../Inc/FreeRTOSConfig.h
+design\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+design\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+design\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+design\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+design\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+design\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+design\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+design\freertos.o: ../Inc/main.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+design\freertos.o: ../Inc/stm32f4xx_hal_conf.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+design\freertos.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+design\freertos.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f429xx.h
+design\freertos.o: ../Drivers/CMSIS/Include/core_cm4.h
+design\freertos.o: ../Drivers/CMSIS/Include/cmsis_version.h
+design\freertos.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+design\freertos.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+design\freertos.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+design\freertos.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_crc.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma2d.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sdram.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_fmc.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_ltdc.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_ltdc_ex.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+design\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+design\freertos.o: D:\Program Files\mdk\ARM\ARMCC\Bin\..\include\stdio.h
+design\freertos.o: D:\Program Files\mdk\ARM\ARMCC\Bin\..\include\string.h
